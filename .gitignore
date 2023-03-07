@@ -1,4 +1,4 @@
-/build/
+/build
 *.o
 /debugger/dvt/
 debugger/.jxbrowser.userdata
@@ -6,3 +6,4 @@ debugger/RemoteSystemsTempFiles
 debugger/.gitignore
 debugger/config
 .vscode/
+/msp430-gcc-9.3.1.11_linux64
